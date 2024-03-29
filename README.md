@@ -29,6 +29,9 @@ Geometric solution in phase space for a collision between two objects. Based on 
 ## [Fibonacci Numbers Extended](https://www.desmos.com/calculator/cpu9oqpndj?invertedColors)
 A cute little module that extends the Fibonacci sequence and the Lucas numbers to noninteger indices.
 
+## [Fibonacci Number Generating Functions](https://www.desmos.com/calculator/5hrncs2ksz?invertedColors)
+A demonstration of different generating functions for the Fibonacci numbers.
+
 ## [Finite Square Well Solution](https://www.desmos.com/calculator/qv2oyweian?invertedColors)
 Graphical solution to the quantum mechanical finite square well.
 
