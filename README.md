@@ -13,7 +13,7 @@ Graphical examples of convolutions of two square pulses and two triangular pulse
 ## [Damped-driven oscillator](https://www.desmos.com/calculator/kmgdmcffyr?invertedColors)
 Resonance graphs for the classical damped-driven oscillator.
 
-## [Digamma and Euler-Mascheroni](https://www.desmos.com/calculator/cdpyhwnoml?invertedColors)
+## [Digamma and Euler-Mascheroni](https://www.desmos.com/calculator/njsditjpna?invertedColors)
 Plots of the [reciprocal gamma function](https://en.wikipedia.org/wiki/Reciprocal_gamma_function),
 [Digamma function](https://en.wikipedia.org/wiki/Digamma_function), and related functions,
 as well as calculating the Euler-Mascheroni constant from the Digamma function.
@@ -23,7 +23,7 @@ Equipotential plots for dipole configurations. Examples include two point charge
 and an equilateral triangle configuration of point charges. A distance parameter can be tweaked while keeping the dipole
 momment constant to show the limit as the charges get arbitrarily close together. 
 
-## [Elastic Collisions by Geometry](https://www.desmos.com/calculator/q0px86rzqm?invertedColors)
+## [Elastic Collisions by Geometry](https://www.desmos.com/calculator/osxsppcgm7?invertedColors)
 Geometric solution in phase space for a collision between two objects. Based on the 3Blue1Brown [video](https://youtu.be/jsYwFizhncE)
 
 ## [Fibonacci Numbers Extended](https://www.desmos.com/calculator/cpu9oqpndj?invertedColors)
