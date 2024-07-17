@@ -52,7 +52,7 @@ Recursively defined Legendre Polynomials with graphs.
 ## [Maxwell-Boltzmann distribution](https://www.desmos.com/calculator/0bu98a8yoo?invertedColors)
 Interactive Maxwell-Boltzmann distribution of speeds for an ideal gas.
 
-## [Riemann Zeta Function spirals](https://www.desmos.com/calculator/kvcdtix2i3?invertedColors)
+## [Riemann Zeta Function spirals](https://www.desmos.com/calculator/lawsg3gsur?invertedColors)
 Riemann Zeta function spirals for all $s$. When $\mathrm{Re}[s] > 1$ the spiral converges to the value of $\zeta(s)$, but when $\mathrm{Re}[s] < 1$, the spiral diverges, yet $\zeta(s)$ is analytically continued.
 
 ## [Riemann Zeta Function Critical Strip spiral](https://www.desmos.com/calculator/s7zr5u2nlh?invertedColors)
