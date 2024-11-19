@@ -58,6 +58,9 @@ Riemann Zeta function spirals for all $s$. When $\mathrm{Re}[s] > 1$ the spiral 
 ## [Riemann Zeta Function Critical Strip spiral](https://www.desmos.com/calculator/s7zr5u2nlh?invertedColors)
 Critical strip spiral plotted for the Riemann Zeta function. The spiral satisfies $\left(x(t), y(t) \right) = \left(\mathrm{Re}[\zeta(\frac{1}{2} + it)], \mathrm{Im}[\zeta(\frac{1}{2} + it)]\right)$
 
+## [Visualization of Taylor Series in the Complex Plane](https://www.desmos.com/calculator/efywbzeprt?invertedColors)
+A visualization of spirals produced by Taylor series in the complex plane. Functions with finite radius of convergence are provided to show what happens outside the radius of convergence, invoking analytic continuation.
+
 ## [Visualization of Risk in Statistics](https://www.desmos.com/calculator/batwru7rp3?invertedColors)
 Using two standard normal distributions to represent what the truth would look like under the null hypothesis ${\rm H_0}$ vs the alternative hypothesis ${\rm H_a}$, the Type I error risk $\alpha$ and Type II error risk $\beta$ are shown as areas under each distribution. Manipulable parameters are the difference in means of ${\rm H_0}$ and ${\rm H_a}$ and $\alpha$.
 
